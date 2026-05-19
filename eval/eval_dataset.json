@@ -1,0 +1,12 @@
+[
+    {
+        "question": "How many vacation days do full-time employees get?",
+        "ground_truth": "Full-time employees are entitled to 20 days of paid vacation per calendar year.",
+        "contexts": ["All full-time employees are entitled to 20 days of paid vacation per calendar year. Vacation days must be requested at least two weeks in advance and approved by the immediate supervisor."]
+    },
+    {
+        "question": "What is the password policy?",
+        "ground_truth": "Passwords must be at least 12 characters long and include a mix of uppercase letters, lowercase letters, numbers, and special characters. They must be changed every 90 days.",
+        "contexts": ["Passwords must be at least 12 characters long and include a mix of uppercase letters, lowercase letters, numbers, and special characters. Passwords must be changed every 90 days."]
+    }
+]
